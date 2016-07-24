@@ -1,2 +1,5 @@
 # hello_world
-Practics
+Practice
+('#whatever').on('click', function () {
+  alert ('whatevre');
+});
